@@ -1,9 +1,9 @@
 
 
----
+--
 title: Odium Revelio!
 <!-- date: 2013-05-06 15:27:31 -->
----
+--
 
 
 Odium Revelio! is one of the research threads I'm working on to detect subtle hate speech on online conversations or comments. Motivated by the recent spread of toxicity, hatred and abuse on social media, we aim to detect these comments and flag them.
