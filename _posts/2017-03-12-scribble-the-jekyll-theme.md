@@ -1,6 +1,6 @@
 
 ---
-title: Police Business Intelligence
+title: Odium Revelio!
 ---
 Odium Revelio! is one of the research threads I'm working on to detect subtle hate speech on online conversations or comments. Motivated by the recent spread of toxicity, hatred and abuse on social media, we aim to detect these comments and flag them.
 •	Key feature engineering involves inclusion of previous comments, title references along with external information from wikipedia pages.
