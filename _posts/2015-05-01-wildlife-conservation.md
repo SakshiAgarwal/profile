@@ -1,8 +1,6 @@
 ---
-title: DUKE HAL EXPERIENCE
+title: Wildlife Conservation Project
 ---
-
-Wildlife Conservation Project 								           [May’2015 - July’2015]
 
 Guided by Prof. Mary Cummings, Associate Professor, Duke University
 
