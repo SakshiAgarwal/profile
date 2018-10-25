@@ -1,5 +1,9 @@
+---
 title: Ticket Classification
+---
 
-Paper accepted at AAAI Workshop Crowdsourcing, Deep Learning and Artificial Intelligence Agents
+I helped in building a ticket classification module during my internship at Tata Consultancy Service (TCS) Innovation Labs, India. This module was to be used internally by the company to automate the process of assigning a particular ticket as a software, hardware or e-mail issue. This module was to be added to a pre-existing online interaction system.   
 
-Built a system, implementing a Recurrent Neural Network (LSTM) classifier, to be integrated with an existing online interaction system where customers entered their queries regarding hardware, software and e-mail related issues Overfitting in RNNs was addressed by implementing existing state-of-the-art methods and their comparisons made. Significance performance increase (12% relatively) was recorded by implementing a proposed method of de-correlating hidden unit representations. Extensive experimentation was conducted on multiple datasets.
+During the internship period, after achieving the baseline results, a commom problem of overfitting in deep learning models (RNNs in our case) was solved. Significant performance increase (12% relatively) was recorded by implementing a proposed method of de-correlating hidden unit representations. More about this [here] (https://sakshiagarwal.github.io/aaai.pdf)
+
+The above paper was accepted at AAAI Workshop Crowdsourcing, Deep Learning and Artificial Intelligence Agents.
