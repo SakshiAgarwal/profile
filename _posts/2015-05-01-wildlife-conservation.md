@@ -2,9 +2,7 @@
 title: Wildlife Conservation Project
 ---
 
-Guided by Prof. Mary Cummings, Associate Professor, Duke University
-
-I contributed in integrating an existing commercial drone(Iris), an infrared camera, and a tablet controller. The team worked on an open-source application, called [Tower](https://github.com/DroidPlanner/Tower), which was used to send waypoints to the Iris drone. We further simplified the user interface and ensured that anybody could control the drone without much training. This application was used to monitor the wildlife preserves at a forest in Gabon, Africa at night. 
+I contributed in integrating an existing commercial drone(Iris), an infrared camera, and a tablet controller. The team, guided by [Prof. Mary Cummings](https://pratt.duke.edu/faculty/missy-cummings) worked on an open-source application, called [Tower](https://github.com/DroidPlanner/Tower), which was used to send waypoints to the Iris drone. We further simplified the user interface and ensured that anybody could control the drone without much training. This application was used to monitor the wildlife preserves at a forest in Gabon, Africa at night. 
 
 The thermal camera(shown below) was integrated with the application to video the wildlife. For instance, the feed while testing captured is shown below. 
 
