@@ -10,9 +10,9 @@ Motivated by the recent spread of toxicity, hatred and abuse on social media, we
 
 As a researcher on the text analytics team, I am exploring and implementing state-of-the-art models in the application of subtle hate speech detection. We solve this this problem by focusing majorly on feature engineering aggregating the title, previous comments and external information. You can read more about this [here](https://sakshiagarwal.github.io/odium-revelio.pdf).
 
-Some of the key features of this model include :
+My responsibilities include :
 
-1. 	Feature engineering involving attention on previous comments, title references along with external information from wikipedia pages.
+1. 	Feature engineering on previous comments, titles of the post along with external information from wikipedia pages.
 2. 	Scraping from fox-news articles to enrich our dataset to create a more balanced dataset to work on.
 3. 	Using a variation of intra-attention - inter-attention on sentences and titles to achieve this problem.
 
