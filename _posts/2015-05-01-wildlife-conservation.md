@@ -10,11 +10,11 @@ After modification of the tower application, the app :
 
 The thermal camera (shown below) was integrated with the application to video the wildlife. 
 
-<img src="https://sakshiagarwal.github.io/drone-thermal-camera.PNG" alt="">
-Drone thermal Camera
+<img src="https://sakshiagarwal.github.io/drone-thermal-camera.PNG" alt="" width="250" height="250">
 
 The feed while testing captured is shown below. The image shows a subject standing on the sidewalk surrounded by trees
-<img src="https://sakshiagarwal.github.io/testing.PNG" alt="">
+<img src="https://sakshiagarwal.github.io/testing.PNG" alt="" width="250" height="250">
+
 
 Screenshot of the Tower application after modifications
 <img src="https://sakshiagarwal.github.io/tower-app-developed.PNG" alt="">
