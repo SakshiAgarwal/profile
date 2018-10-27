@@ -1,6 +1,6 @@
 @import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
 
-.mv2 { width: 40%   }
+.col-mv-2 { width: 40%   }
 
 .bg-super-white { background: #f9f9f9; }
 .top-50 { top: 50% }
