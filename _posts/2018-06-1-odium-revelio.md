@@ -13,7 +13,7 @@ As a researcher on the text analytics team, I am exploring and implementing stat
 My responsibilities include :
 
 1. 	Feature engineering on previous comments, titles of the post along with external information from wikipedia pages.
-2. 	Scraping from fox-news articles to enrich our dataset to create a more balanced dataset to work on.
+2. 	Scraping of fox-news 'stupid' comments to enrich our dataset.
 3. 	Using a variation of intra-attention - inter-attention on sentences and titles to achieve this problem.
 
 <!--
