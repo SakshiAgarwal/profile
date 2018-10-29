@@ -1,6 +1,6 @@
 ---
 title: Wildlife Conservation Project
-text: Integration of an existing drone with a thermal camera and a tablet controller 
+text: Integration of an existing drone with a thermal camera and a tablet 
 ---
 
 I contributed in integrating an existing commercial drone(Iris), an infrared camera, and a tablet controller. The team, guided by [Prof. Mary Cummings](https://pratt.duke.edu/faculty/missy-cummings) worked on an open-source application, called [Tower](https://github.com/DroidPlanner/Tower), which was used to send waypoints to the Iris drone. We further simplified the user interface and ensured that anybody could control the drone without much training. This application was used to monitor the wildlife preserves at a forest in Gabon, Africa at night. 
