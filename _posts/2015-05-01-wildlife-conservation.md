@@ -16,6 +16,6 @@ The feed while testing captured is shown below. The image shows a subject standi
 <img src="https://sakshiagarwal.github.io/testing.PNG" alt="">
 
 
-Screenshot of the Tower application after modifications
+Screenshot of the Tower application after the modifications
 <img src="https://sakshiagarwal.github.io/tower-app-developed.PNG" alt="">
 
