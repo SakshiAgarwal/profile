@@ -2,7 +2,7 @@
 title: Odium Revelio!
 ---
 
-Odium Revelio! is a model designed to detect hate speech in online conversations of an article. This model not only focuses on marking overt hate speech comments but also subtle ones. As for example : 
+Odium Revelio! (ongoing work) is a model designed to detect hate speech in online conversations on an article. This model not only focuses on flagging overt hate speech comments but also subtle ones. As for example : 
 
 <img src="https://sakshiagarwal.github.io/images/subtle-hate-speeches.PNG" alt="">
 
